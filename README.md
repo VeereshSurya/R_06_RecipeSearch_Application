@@ -22,9 +22,9 @@ Javascript <br>
 React and Reacr-router
 
 ### Steps to run 
-Basically this project is boostraped with Creat-react-app 
- 
+Basically this project is boostraped with Creat-react-app  
  1) Install nodejs 
  2) Create a new folder , open cmd and navigate into newly created folder
  3) run this command  npx create-react-app yourappname 
- 4) run this command  npm start 
+ 4) replace public and src files by public and src files located in the extracted file.(you can download this project).
+ 5) run this command  npm start 
